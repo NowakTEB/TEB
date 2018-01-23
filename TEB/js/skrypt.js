@@ -1,0 +1,3 @@
+//alert("wiadomosc");
+alert("wiadomosc");
+
